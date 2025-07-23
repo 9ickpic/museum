@@ -523,7 +523,7 @@ header {
 #buy-tickets {
   .wrapper {
     padding-top: 75px;
-    margin-top: 75px;
+    padding-bottom: 75px;
     color: #000;
   }
 
